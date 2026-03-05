@@ -1,4 +1,4 @@
-## heyy guys, welcome to my github profile!
+# heyy guys, welcome to my github profile!
 
 ```env
     OS:         NixOS
